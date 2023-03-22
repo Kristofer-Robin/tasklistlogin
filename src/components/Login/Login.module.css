@@ -34,7 +34,7 @@
 
 .control input:focus {
   outline: none;
-  border-color: #005f16;
+  border-color: hotpink;
   background: hotpink;
 }
 
